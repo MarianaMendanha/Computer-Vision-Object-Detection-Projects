@@ -23,8 +23,8 @@ O **Transformers-Train-Inference** é um projeto focado em treinar e realizar in
 |--------------------------|------------------------------------------|----------------------------------------------|
 | **Tecnologia**           | Azure Custom Vision                      | Biblioteca Transformers                       |
 | **Uso**                  | Aplicativo pronto para uso               | Treinamento e inferência de modelos         |
-| **Interface de Captura** | Conexão com câmeras IP                   | Inferência em tempo real e com imagens estáticas |
-| **Relatórios**           | Geração de relatórios de detecção        | Não aplicável                             |
+| **Interface de Captura** | Conexão com câmeras IP - Em Desenvolvimento                  | Inferência em tempo real e com imagens estáticas |
+| **Relatórios**           | Geração de relatórios de detecção - Em Desenvolvimento       | Não aplicável                             |
 | **Treinamento de Modelos** | Não aplicável                          | Suporte para fine-tuning           |
 
 ## 🚀 Como Começar
